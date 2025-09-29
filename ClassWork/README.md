@@ -1,12 +1,12 @@
 
-# 🚀 Java Problem Solving Journey
+#  Java Problem Solving Journey
 
 This repository contains my daily practice problems in Java.  
 Each folder (`Day1/`, `Day2/`, `Day3/`, …) has its own `README.md` with detailed notes, problems, and learnings.
 
 ---
 
-## 📅 Progress Tracker
+##  Progress Tracker
 
 | Day | Problems Solved | Key Learnings | Link |
 |-----|-----------------|---------------|------|
@@ -16,7 +16,7 @@ Each folder (`Day1/`, `Day2/`, `Day3/`, …) has its own `README.md` with detail
 
 ---
 
-## 🏆 Overall Stats
+##  Overall Stats
 
 ![Language](https://img.shields.io/badge/Language-Java-blue.svg)
 ![Progress](https://img.shields.io/badge/Days%20Completed-3-green.svg)
