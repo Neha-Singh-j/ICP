@@ -8,7 +8,8 @@ public class power_of_two {
 
     public static boolean pow(int n, int val) {
         if (val == n) return true;  // found power of 2
-        if (val > n) return false;  
+        if (val > n) return false;
+         if (val > Integer.MAX_VALUE / 2) return false; //prevent overflow  
         return pow(n, val * 2);     // check next power of 2
     }
 
